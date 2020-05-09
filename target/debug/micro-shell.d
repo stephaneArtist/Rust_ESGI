@@ -1,0 +1,1 @@
+C:\Users\stephane\micro-shell\target\debug\micro-shell.exe: C:\Users\stephane\micro-shell\src\command.rs C:\Users\stephane\micro-shell\src\main.rs C:\Users\stephane\micro-shell\src\sub_command.rs C:\Users\stephane\micro-shell\src\utils.rs
